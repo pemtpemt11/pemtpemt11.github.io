@@ -1,0 +1,43 @@
+# Site settings
+title: pemtpemt11
+description: 'pemtpemt11`s Personal Blog'
+url: 'https://pemtpemt11.github.io/'
+baseurl: ''
+# google_analytics: 'UA-XXXXXX-X'
+# disqus_shortname: 'your-disqus-name'
+# disable_landing_page: true
+
+author:
+  name: 'pemtpemt11'
+  email: pemtpemt11@gmail.com
+  # twitter_username: pemtpemt11
+  # facebook_username: pemtpemt11
+  # github_username:  pemtpemt11
+  # linkedin_username:  pemtpemt11
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+plugins: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
