@@ -13,7 +13,7 @@ pin: true
 ![일본골프여행 TOP01](https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/travel_reactor/travelConnect/hotel/A00246702/83c20948-5cc6-4859-93c1-a7a08cc01f19.jpg){: width="300" height="300" .w-50 .left}
 
 
-[Shimonoseki 일본야마구치현Toyotako Hotel  Golf Club Toyota](https://link.coupang.com/re/AFFTDP?lptag=AF5108917&subid=githubmoonthinker&pageKey=10000002752271&traceid=V0-153&itemId=None&vendorItemId=None)
+[Shimonoseki 일본야마구치현Toyotako Hotel  Golf Club Toyota](https://link.coupang.com/re/AFFTDP?lptag=AF5108917&subid=githubmoonthinker&pageKey=10000002752271&traceid=V0-153)
 <br>
 - 할인율과 원래가격: 26%  50,000   원
 - 가격: 167,900원
@@ -22,7 +22,7 @@ pin: true
 <br>
 <br>
 <br>
-[**[CLICK]**](https://link.coupang.com/re/AFFTDP?lptag=AF5108917&subid=githubmoonthinker&pageKey=10000002752271&traceid=V0-153&itemId=None&vendorItemId=None){: .right}
+[**[CLICK]**](https://link.coupang.com/re/AFFTDP?lptag=AF5108917&subid=githubmoonthinker&pageKey=10000002752271&traceid=V0-153){: .right}
 <br>
 <br>
 

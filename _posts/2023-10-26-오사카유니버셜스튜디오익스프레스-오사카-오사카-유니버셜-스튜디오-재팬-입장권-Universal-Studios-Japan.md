@@ -13,7 +13,7 @@ pin: true
 ![오사카유니버셜스튜디오익스프레스 TOP01](https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/travel_reactor/travelSeller/common/A00210700/9000f095-d136-464e-aa85-0ab0f22d074f.jpg){: width="300" height="300" .w-50 .left}
 
 
-[오사카 오사카 유니버셜 스튜디오 재팬 입장권 Universal Studios Japan](https://link.coupang.com/re/AFFTDP?lptag=AF5108917&subid=githubmoonthinker&pageKey=10000001790967&traceid=V0-153&itemId=None&vendorItemId=None)
+[오사카 오사카 유니버셜 스튜디오 재팬 입장권 Universal Studios Japan](https://link.coupang.com/re/AFFTDP?lptag=AF5108917&subid=githubmoonthinker&pageKey=10000001790967&traceid=V0-153)
 <br>
 - 할인율과 원래가격: 26%  50,000   원
 - 가격: 61,800원
@@ -22,7 +22,7 @@ pin: true
 <br>
 <br>
 <br>
-[**[CLICK]**](https://link.coupang.com/re/AFFTDP?lptag=AF5108917&subid=githubmoonthinker&pageKey=10000001790967&traceid=V0-153&itemId=None&vendorItemId=None){: .right}
+[**[CLICK]**](https://link.coupang.com/re/AFFTDP?lptag=AF5108917&subid=githubmoonthinker&pageKey=10000001790967&traceid=V0-153){: .right}
 <br>
 <br>
 
