@@ -52,4 +52,16 @@
   <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css?{{site.time | date: '%s%N'}}">
   <link rel="canonical" href="{% if page.canonical %}{{ page.canonical }}{% else %}{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}{% endif %}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.baseurl }}/feed.xml">
+  {% if page.collection == "posts" %}
+  <script type="application/ld+json">
+  {"@context":"https://schema.org","@type":"BlogPosting",
+   "headline":{{ page.title | jsonify }},
+   "description":{% if page.description %}{{ page.description | strip_html | jsonify }}{% else %}{{ page.title | jsonify }}{% endif %},
+   "datePublished":"{{ page.date | date_to_xmlschema }}",
+   "dateModified":"{% if page.last_modified_at %}{{ page.last_modified_at | date_to_xmlschema }}{% else %}{{ page.date | date_to_xmlschema }}{% endif %}",
+   "mainEntityOfPage":"{{ page.url | absolute_url }}",
+   "author":{"@type":"Person","name":{{ site.title | jsonify }}},
+   "inLanguage":"ko"}
+  </script>
+  {% endif %}
 </head>
