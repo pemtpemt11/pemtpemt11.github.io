@@ -6,6 +6,18 @@
 
 /* Modifications */
 
+/* 글 페이지에서 헤더 사이트명은 h1 이 아니라 p — h1 과 같은 모양 유지 (h1 은 글 제목 1개만, 2026-09-27) */
+p.site-title {
+  margin-top: 0;
+  margin-bottom: .4em;
+  font-family: "Roboto Slab", serif;
+  font-weight: lighter;
+  font-size: 3.2em;
+  line-height: 1.2em;
+  letter-spacing: .05em;
+  -webkit-font-smoothing: antialiased;
+}
+
 pre.highlight,
 .highlight pre {
   padding: 10px;

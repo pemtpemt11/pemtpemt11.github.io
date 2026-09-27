@@ -1,6 +1,6 @@
 # Site settings
 title: pemtpemt11
-description: 'pemtpemt11`s Personal Blog'
+description: '알리익스프레스 인기 상품을 가격·평점·판매량 기준으로 골라 TOP 순위로 정리하는 추천 블로그입니다.'
 url: 'https://pemtpemt11.github.io'
 baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
