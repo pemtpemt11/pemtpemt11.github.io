@@ -1,4 +1,5 @@
 ---
+robots: noindex
 title: "오사카유니버셜스튜디오익스프레스 TOP10 추천 - [30대][전연령] 오사카 오사카 유니버셜 스튜디오 재팬 입장권 Universal Studios Japan"
 author: Moon
 categories: shopping

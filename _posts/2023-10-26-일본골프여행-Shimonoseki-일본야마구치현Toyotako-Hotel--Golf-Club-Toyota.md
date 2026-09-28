@@ -1,4 +1,5 @@
 ---
+robots: noindex
 title: "일본골프여행 TOP10 추천 - [30대][전연령] Shimonoseki 일본야마구치현Toyotako Hotel  Golf Club Toyota"
 author: Moon
 categories: shopping

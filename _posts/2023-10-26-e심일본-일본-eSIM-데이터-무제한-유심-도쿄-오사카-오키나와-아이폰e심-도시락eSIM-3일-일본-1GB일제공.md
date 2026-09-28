@@ -1,4 +1,5 @@
 ---
+robots: noindex
 title: "e심일본 TOP10 추천 - [30대][전연령] 일본 eSIM 데이터 무제한 유심 도쿄 오사카 오키나와 아이폰e심 도시락eSIM 3일 일본 1GB일제공"
 author: Moon
 categories: shopping

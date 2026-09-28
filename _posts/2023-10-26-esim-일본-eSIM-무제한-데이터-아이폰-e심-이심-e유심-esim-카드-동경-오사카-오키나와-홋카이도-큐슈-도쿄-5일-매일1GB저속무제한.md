@@ -1,4 +1,5 @@
 ---
+robots: noindex
 title: "esim TOP10 추천 - [30대][전연령] 일본 eSIM 무제한 데이터 아이폰 e심 이심 e유심 esim 카드 동경 오사카 오키나와 홋카이도 큐슈 도쿄 5일 매일1GB"
 author: Moon
 categories: shopping

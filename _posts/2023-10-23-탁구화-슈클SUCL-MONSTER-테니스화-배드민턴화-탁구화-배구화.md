@@ -1,4 +1,5 @@
 ---
+robots: noindex
 title: "탁구화 TOP10 추천 - [20대][여성] 슈클SUCL MONSTER 테니스화 배드민턴화 탁구화 배구화"
 author: Moon
 categories: shopping

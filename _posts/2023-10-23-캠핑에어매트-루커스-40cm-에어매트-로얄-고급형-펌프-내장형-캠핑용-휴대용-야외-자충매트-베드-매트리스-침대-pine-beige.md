@@ -1,4 +1,5 @@
 ---
+robots: noindex
 title: "캠핑에어매트 TOP10 추천 - [20대][여성] 루커스 40cm 에어매트 로얄 고급형 펌프 내장형 캠핑용 휴대용 야외 자충매트 베드 매트리스 침대 pine beige"
 author: Moon
 categories: shopping

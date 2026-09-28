@@ -1,4 +1,5 @@
 ---
+robots: noindex
 title: "맵시막걸리 TOP10 추천 - [20대][전연령]  수출 KMakgeolli Mix  시판 막걸리와는 비교불가 집에서 손쉽게 만드는 옛 전통 고유의 통곡물 현미 막걸리 KMa"
 author: Moon
 categories: shopping

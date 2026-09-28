@@ -1,4 +1,5 @@
 ---
+robots: noindex
 title: "면세점딥디크 TOP10 추천 - [10대][남성] CPL 영국 프래그런스 오일 베이 BAIES Diptyque Type 500ml1L 1L 1개"
 author: Moon
 categories: shopping

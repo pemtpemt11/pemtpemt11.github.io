@@ -1,4 +1,5 @@
 ---
+robots: noindex
 title: "세이코면세점 TOP10 추천 - [10대][남성] 세이코 import SEIKO 손목 시계 역수입 해외 모델 SND367PC 남성 "
 author: Moon
 categories: shopping

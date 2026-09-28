@@ -1,4 +1,5 @@
 ---
+robots: noindex
 title: "대만esim TOP10 추천 - [30대][전연령] 대만 eSIM 이심 매일 10GB LTE 데이터 무제한 타이페이 가오슝 타이루거 1일 매일10GB 이후 128kbps"
 author: Moon
 categories: shopping
